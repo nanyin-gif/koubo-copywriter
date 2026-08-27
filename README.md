@@ -29,9 +29,6 @@ koubo-copywriter-lite/
 │   ├── hook-starters.md      # 8 类钩子套路 + 标题语料 + 金句素材
 │   ├── deai-checklist.md     # 去AI化自检清单（禁词表/句式/人味技法/字数换算）
 │   └── style-guide.md        # 5 种对标风格（扎心现实/温柔治愈/知性通透/伤感语录/清醒说理）
-├── docs/                     # 作者运营配套（可自行使用/删除）
-│   ├── 上架信息.md            # RedSkill 上架填表信息
-│   └── 演示笔记.md            # 小红书演示笔记模板 ×2
 ├── LICENSE
 └── README.md
 ```
